@@ -1,15 +1,12 @@
-# Basic Sample Hardhat Project
+FULL MINTING WEBSITE FOR PIXELKINGS NFT LOOTBOXES
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+NETWORK RINKEBY ETHEREUM
+DEPLOYED AND VERIFIED CONTRACT ADDRESS 0xaC7e916122Be4629F5245C3631CBcD64b132F017
+WALLET OWNER 0x150bF2290aeDF43fcF10572ba55B4936CDDCdC27
 
-Try running some of the following tasks:
+CREATED WITH HARDHAT, CHAKRA UI, REACT AND ETHERS
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+1. INSTALL NODE.JS (NPM INSTALL)
+2. NEED TO ALLOW WALLET ADDRESS TO MINT IN ETHERSCAN
+3. TO RUN "NPM RUN START"
+4. CONNECT WITH METAMASK ON http://localhost:3000/
